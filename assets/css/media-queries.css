@@ -106,6 +106,18 @@
         font-size: 0.8rem;
     }
 
+    .dice-icon {
+        width: 10vw;
+        height: 10vw;
+        grid-column-start: 24;
+        grid-row-end: 31;
+    }
+
+    .dice-icon img {
+        width: 10vw;
+        height: 10vw;
+    }
+
     .roll-button {
         font-size: 0.8rem;
     }
@@ -128,6 +140,10 @@
 }
 
 @media only screen and (max-width:590px) {
+    .main-wrapper {
+        height: 60%;
+    }
+
     .new-game-icon {
         grid-column-start: 10;
         grid-column-end: 41;
@@ -192,5 +208,82 @@
 
     .round-score-number {
         font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width:420px) {
+    .main-wrapper {
+        height: 50%;
+    }
+
+    .new-game-icon-content {
+        font-size: 0.1rem;
+    }
+
+    .player-0 .player-title {
+        font-size: 1rem;
+        grid-column-start: 1;
+        grid-column-end: 51;
+
+    }
+
+    .player-1 .player-title {
+        font-size: 1rem;
+        grid-column-start: 1;
+        grid-column-end: 51;
+    }
+
+    .player-0 .round-score {
+        grid-column-start: 12;
+        grid-column-end: 36;
+        grid-row-start: 39;
+        grid-row-end: 45;
+    }
+
+    .player-1 .round-score {
+        grid-column-start: 12;
+        grid-column-end: 36;
+        grid-row-start: 39;
+        grid-row-end: 45;
+    }
+
+    .new-game-icon {
+        grid-column-start: 18;
+        grid-column-end: 33;
+
+    }
+
+    .new-game-image {
+        opacity: 0;
+    }
+
+    .roll-button {
+        font-size: 0.6rem;
+        grid-column-start: 19;
+        grid-column-end: 32;
+    }
+
+    .hold-button {
+        font-size: 0.6rem;
+        grid-column-start: 19;
+        grid-column-end: 32;
+    }
+
+    .player-global-score {
+        font-size: 2rem;
+    }
+
+    .round-title {
+        font-size: 0.7rem;
+    }
+
+    .round-score-number {
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width:300px) {
+    .main-wrapper {
+        height: 45%;
     }
 }
