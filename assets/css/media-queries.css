@@ -1,0 +1,196 @@
+@media only screen and (max-width:1170px) {
+    .player-title {
+        font-size: 2.2rem;
+    }
+
+    .new-game-content {
+        font-size: 1.4rem;
+    }
+
+    .roll-button {
+        font-size: 1.4rem;
+    }
+
+    .hold-button {
+        font-size: 1.4rem;
+    }
+
+    .player-global-score {
+        font-size: 3.5rem;
+    }
+
+    .round-title {
+        font-size: 1.2rem;
+    }
+
+    .round-score-number {
+        font-size: 2.1rem;
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .player-title {
+        font-size: 2rem;
+    }
+
+    .new-game-content {
+        font-size: 1.2rem;
+    }
+
+    .roll-button {
+        font-size: 1.2rem;
+    }
+
+    .hold-button {
+        font-size: 1.2rem;
+    }
+
+    .player-global-score {
+        font-size: 3.2rem;
+    }
+
+    .round-title {
+        font-size: 1rem;
+    }
+
+    .round-score-number {
+        font-size: 1.8rem;
+    }
+}
+
+@media only screen and (max-width:845px) {
+    .player-title {
+        font-size: 1.6rem;
+    }
+
+    .new-game-image {
+        grid-row-start: 3;
+        grid-row-end: 5;
+        grid-column-start: 4;
+        grid-column-end: 13;
+    }
+
+    .new-game-content {
+        grid-row-start: 2;
+        grid-row-end: 6;
+        font-size: 1rem;
+    }
+
+    .roll-button {
+        font-size: 1rem;
+    }
+
+    .hold-button {
+        font-size: 1rem;
+    }
+
+    .player-global-score {
+        font-size: 2.8rem;
+    }
+
+    .round-title {
+        font-size: 0.9rem;
+    }
+
+    .round-score-number {
+        font-size: 1.6rem;
+    }
+}
+
+@media only screen and (max-width:680px) {
+    .player-title {
+        font-size: 1.4rem;
+    }
+
+    .new-game-content {
+        font-size: 0.8rem;
+    }
+
+    .roll-button {
+        font-size: 0.8rem;
+    }
+
+    .hold-button {
+        font-size: 0.8rem;
+    }
+
+    .player-global-score {
+        font-size: 2.4rem;
+    }
+
+    .round-title {
+        font-size: 0.7rem;
+    }
+
+    .round-score-number {
+        font-size: 1.4rem;
+    }
+}
+
+@media only screen and (max-width:590px) {
+    .new-game-icon {
+        grid-column-start: 10;
+        grid-column-end: 41;
+    }
+
+    .player-0 .player-title {
+        font-size: 1.2rem;
+        grid-column-start: 1;
+        grid-column-end: 51;
+
+    }
+
+    .player-1 .player-title {
+        font-size: 1.2rem;
+        grid-column-start: 1;
+        grid-column-end: 51;
+    }
+
+    .player-0 .round-score {
+        grid-column-start: 12;
+        grid-column-end: 36;
+        grid-row-start: 39;
+        grid-row-end: 45;
+    }
+
+    .player-1 .round-score {
+        grid-column-start: 12;
+        grid-column-end: 36;
+        grid-row-start: 39;
+        grid-row-end: 45;
+    }
+
+    .new-game-icon {
+        grid-column-start: 18;
+        grid-column-end: 33;
+
+    }
+
+    .new-game-image {
+        opacity: 0;
+    }
+
+    .roll-button {
+        font-size: 0.8rem;
+        grid-column-start: 19;
+        grid-column-end: 32;
+    }
+
+    .hold-button {
+        font-size: 0.8rem;
+        grid-column-start: 19;
+        grid-column-end: 32;
+    }
+
+    .player-global-score {
+        font-size: 2.2rem;
+    }
+
+    .round-title {
+        font-size: 0.7rem;
+    }
+
+    .round-score-number {
+        font-size: 1.2rem;
+    }
+}
