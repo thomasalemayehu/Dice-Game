@@ -46,7 +46,7 @@ rollButton.addEventListener("click", () => {
     if (isPlaying) {
         //   Generate Random Number
         let diceRolled = Math.floor(Math.random() * 6) + 1;
-        console.log("Dice rolled " + diceRolled);
+
 
         //   Make die visible
         document.querySelector(".dice-icon").style.display = "block";
