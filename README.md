@@ -9,7 +9,7 @@
 ## Tech Stack Used:
 
 <span> 
-<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/html-5.svg" height=30>
+<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/html.png" height=30>
 <img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/css-3.svg" height=30>
 <img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/javascript.svg" height=30>
 <img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/markdown.svg" height=30>
