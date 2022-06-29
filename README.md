@@ -9,30 +9,30 @@
 ## Tech Stack Used:
 
 <span> 
-<img src="./assets/readmefiles/html-5.svg" height=30>
-<img src="./assets/readmefiles/css-3.svg" height=30>
-<img src="./assets/readmefiles/javascript.svg" height=30>
-<img src="./assets/readmefiles/markdown.svg" height=30>
+<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/html-5.svg" height=30>
+<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/css-3.svg" height=30>
+<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/javascript.svg" height=30>
+<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/markdown.svg" height=30>
 </span>
 
 ## Tools Used:
 
 <span> 
-<img src="./assets/readmefiles/visual-studio.svg" height=30>
-<img src="./assets/readmefiles/git-icon.svg" height=30>
-<img src="./assets/readmefiles/github-icon.svg" height=30>
+<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/visual-studio.svg" height=30>
+<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/git-icon.svg" height=30>
+<img src="https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/github-icon.svg" height=30>
 </span>
 
 ## Project Preview
 
 ##### Initial Page
 
-![Initial Page, Pass the Pigs](assets\readmefiles\initial.png)
+![Initial Page, Pass the Pigs](https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/initial.png)
 
 ##### Mid Game
 
-![Mid Game Page, Pass the Pigs](assets\readmefiles\mid-game.png)
+![Mid Game Page, Pass the Pigs](https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/mid-game.png)
 
 ##### End Game
 
-![Ends Game Page, Pass the Pigs](assets\readmefiles\end-game.png)
+![Ends Game Page, Pass the Pigs](https://raw.githubusercontent.com/thomasalemayehu/Dice-Game/main/assets/readmefiles/end-game.png)
